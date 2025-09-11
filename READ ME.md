@@ -17,6 +17,19 @@
 
 ✔CSS
 
+<h2>Proceso de instalación</h2>
+
+1. Realiza la clonación de este repositorio con Git Bash:
+   ```bash
+   git clone https://github.com/CodeByNyto/Amigo-Secreto.git
+   ```
+2. Navega por el archivo del proyecto:
+   ```bash
+   cd Amigo-Secreto-main
+3. Abre `index.html` en tu navegador de preferencia
+
+   **¡Eso es todo! Puedes empezar a disfrutar de la experiencia de la aplicación.**
+
 <h2>Funcionalidades</h2>
 
 • :clipboard: Añadir nombres a una lista.
